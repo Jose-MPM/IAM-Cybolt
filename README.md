@@ -14,7 +14,9 @@ Welcome to the IAM-Cybolt Bootcamp repository! This repository contains material
 ## Resources
 
 - [**IAM 2024 Cheat Sheets Bootcamp-1.pdf**](./IAM%202024%20Cheat%20Sheets%20Bootcamp-1.pdf)
+	- *You May need to download it to see properly*, git doesn't display pdf's properly, **don't worry, it's not malware**
 - [**Lab Workbook IAM Bootcamp 2024.pdf**](./Lab%20Workbook%20IAM%20Bootcamp%202024.pdf)
+	- *You May need to download it to see properly*, git doesn't display pdf's properly, **don't worry, it's not malware**
 - [**My Course Notes.md**](./IAM.md)
 - [**Capstone_Cybolt.ipynb:**](./Capstone_Cybolt.ipynb) Capstone project notebook.
 
@@ -95,3 +97,13 @@ This repository serves as a comprehensive guide to IAM concepts and practices le
 ---
 
 Feel free to explore the files and resources in this repository to deepen your understanding of IAM and its applications in the field of cybersecurity.
+
+-----
+I hope tou find these notes as helpful as I did during my learning process!
+------
+
+## Expressions of gratitude 🎁
+* :punch: Share and tell others about this notes 📢
+* :+1: Contact and follow me :bowtie:
+------
+⌨️ with much :purple_heart: by [Jose-MPM](https://github.com/Jose-MPM) 😊⌨️
