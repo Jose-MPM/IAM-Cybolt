@@ -1,0 +1,8 @@
+Hint:
+
+-Use VirusTotal
+-The password only have one pair of "{}"
+
+Remember the password structure:
+
+flag:{}

@@ -1,0 +1,8 @@
+You are in charge of the security of a building where extremely sensitive documents are stored. 
+Instead of assuming that anyone who enters the building is trustworthy, 
+you implement a series of measures to ensure that each individual is verified at every access point.
+No one is trusted by default, some basic principles (SANS) are authentication and encryption.
+
+What kind of model are you using (in MD5)?
+
+Save your flag.

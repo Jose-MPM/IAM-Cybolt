@@ -1,0 +1,4 @@
+keyFileA= flag:{rbac}
+keyFileAA= flag:{4c4887bf69e49c697759ae46fa45de39}
+keyFileAAA= flag:{id3nt1tyandacc355m4n4g3m3nt}
+keyFileAAAA= flag:{th1s1safl4gf0rth1sl3v3l}
